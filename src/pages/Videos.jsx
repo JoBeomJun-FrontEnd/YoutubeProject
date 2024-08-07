@@ -1,5 +1,9 @@
-import React from 'react';
+import { useEffect } from 'react';
+import React, { useParams } from 'react-router-dom';
 
 export default function Videos() {
-  return <div>videos</div>;
+  const { keyword } = useParams();
+
+  useEffect(() => {}, []);
+  return <div>videos {keyword ? `🔍${keyword}` : '🔥'}</div>;
 }
