@@ -1,3 +1,5 @@
-export default function VideoCard() {
-  return <div></div>;
+import React from 'react';
+
+export default function VideoCard({ video }) {
+  return <div>{video.snippet.title}</div>;
 }
