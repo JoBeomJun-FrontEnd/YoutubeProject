@@ -1,5 +1,24 @@
 import React from 'react';
+import { formatAgo } from '../util/date';
+import { useNavigate } from 'react-router-dom';
 
 export default function VideoCard({ video }) {
-  return <div>{video.snippet.title}</div>;
+  const { title, thumbnails, channelTitle, publishedAt } = video.snippet;
+  const navigate = useNavigate();
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    navigate(`/videos/watch/${video.id}`);
+  };
+
+  return (
+    <li className="cursor-pointer" onClick={handleSubmit}>
+      <img className="w-full" src={thumbnails.medium.url} alt="" />
+      <div>
+        <p className="font-semibold my-2 line-clamp-2">{title}</p>
+        <p className="text-sm opacity-80">{channelTitle}</p>
+        <p className="text-sm opacity-80">{formatAgo(publishedAt, 'ko')}</p>
+      </div>
+    </li>
+  );
 }

@@ -10,34 +10,6 @@
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "NwrwAAX-z2pPOW68qb4TP79Qyjg",
-      "id": {
-        "kind": "youtube#channel",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ"
-      },
-      "snippet": {
-        "publishedAt": "2012-12-17T03:20:38Z",
-        "channelId": "UCLkAepWjdylmXSltofFvsYQ",
-        "title": "BANGTANTV",
-        "description": "This is the official YouTube channel of BTS. 방탄소년단 공식 유튜브 채널 입니다.",
-        "thumbnails": {
-          "default": {
-            "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s88-c-k-c0xffffffff-no-rj-mo"
-          },
-          "medium": {
-            "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s240-c-k-c0xffffffff-no-rj-mo"
-          },
-          "high": {
-            "url": "https://yt3.ggpht.com/zL7KDS7WEHVbgpo6dM91hL5e91etHiuq2umW32iSePrhE5411SPsEdpAEcf5m5mYS-a_vpl7Ww=s800-c-k-c0xffffffff-no-rj-mo"
-          }
-        },
-        "channelTitle": "BANGTANTV",
-        "liveBroadcastContent": "none",
-        "publishTime": "2012-12-17T03:20:38Z"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
       "etag": "131lkYdYqsI7vk0Uo3DIiXsyHUk",
       "id": {
         "kind": "youtube#video",

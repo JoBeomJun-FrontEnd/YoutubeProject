@@ -48,6 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-scripts", "virtual:d97b8c0c432ea2fc5bd235f61a5608a266e1d5e67debe0a040c084f19f6654d48c2e5926c98296d18264c5289b5ed739f8f80be38672d5f10b7bf234e1ec20cc#npm:5.0.1"],\
             ["sort-by", "npm:1.2.0"],\
             ["tailwindcss", "npm:3.4.7"],\
+            ["timeago.js", "npm:4.0.2"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
           "linkType": "SOFT"\
@@ -17236,6 +17237,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["timeago.js", [\
+        ["npm:4.0.2", {\
+          "packageLocation": "./.yarn/cache/timeago.js-npm-4.0.2-e87d64f9a3-c785a06988.zip/node_modules/timeago.js/",\
+          "packageDependencies": [\
+            ["timeago.js", "npm:4.0.2"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["tmpl", [\
         ["npm:1.0.5", {\
           "packageLocation": "./.yarn/cache/tmpl-npm-1.0.5-d399ba37e2-cd922d9b85.zip/node_modules/tmpl/",\
@@ -18631,6 +18641,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-scripts", "virtual:d97b8c0c432ea2fc5bd235f61a5608a266e1d5e67debe0a040c084f19f6654d48c2e5926c98296d18264c5289b5ed739f8f80be38672d5f10b7bf234e1ec20cc#npm:5.0.1"],\
             ["sort-by", "npm:1.2.0"],\
             ["tailwindcss", "npm:3.4.7"],\
+            ["timeago.js", "npm:4.0.2"],\
             ["web-vitals", "npm:2.1.4"]\
           ],\
           "linkType": "SOFT"\
