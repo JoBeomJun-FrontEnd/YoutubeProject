@@ -14,9 +14,8 @@
 <br/>
 🔨 Tech
 
-- HTML
-- CSS
-- JavaScript
 - React
+- JavaScript
+- Tailwind CSS
 - Youtube API
 
