@@ -1,4 +1,4 @@
-## Coupang_TodayDiscovery
+## YoutubeProject
 
 2024.08.16 날짜 유튜브 웹사이트 클론 코딩
 <br/>
