@@ -17,5 +17,8 @@
 - React
 - JavaScript
 - Tailwind CSS
+- Context
+- TanStackQuery
+- React Router
 - Youtube API
 
