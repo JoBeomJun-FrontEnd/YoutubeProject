@@ -8,8 +8,8 @@
 <br/>
 📌 Point
 
-- 처음으로 API를 활용한 웹 사이트 개발
-- TanStack query와 React Router를 활용한 유튜브 클론 코딩
+- API사용법과 TanStackQuery, React Router 학습을 위한 웹사이트 개발
+- CSS 라이브러리 중 선택율이 높고 최근에 나온 Tailwind CSS 학습 겸 사용
 
 <br/>
 🔨 Tech
